@@ -18,7 +18,7 @@ then transitioned into **UI/UX Design**, and now I build **interactive, pixel-pe
 
 ### Front-End
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-2965F1?style=flat&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-2965F1?style=flat&logo=w3c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
 
 ### Back-End
