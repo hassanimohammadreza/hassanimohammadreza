@@ -18,13 +18,16 @@ then transitioned into **UI/UX Design**, and now I build **interactive, pixel-pe
 
 ### Front-End
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
 
+### Back-End
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
 ### Design & Motion
-![UI/UX](https://img.shields.io/badge/UI%2FUX-6C63FF?style=flat&logo=figma&logoColor=white)
-![Graphic Design](https://img.shields.io/badge/Graphic%20Design-FF4D4D?style=flat&logo=adobe&logoColor=white)
-![Motion Design](https://img.shields.io/badge/Motion%20Design-00C2FF?style=flat&logo=adobeaftereffects&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-000000?style=flat&logo=figma&logoColor=white)
+![Graphic Design](https://img.shields.io/badge/Graphic%20Design-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
+![Motion Design](https://img.shields.io/badge/Motion%20Design-9999FF?style=flat&logo=adobeaftereffects&logoColor=white)
 
 ---
 
