@@ -15,11 +15,17 @@ then transitioned into **UI/UX Design**, and now I build **interactive, pixel-pe
 ---
 
 ## ✦ Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-111111?style=flat)
-![Motion Design](https://img.shields.io/badge/Motion%20Design-111111?style=flat)
+
+### Front-End
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
+
+### Design & Motion
+![UI/UX](https://img.shields.io/badge/UI%2FUX-6C63FF?style=flat)
+![Graphic Design](https://img.shields.io/badge/Graphic%20Design-FF4D4D?style=flat)
+![Motion Design](https://img.shields.io/badge/Motion%20Design-00C2FF?style=flat)
+
 
 ---
 
@@ -51,6 +57,5 @@ This background allows me to:
 ---
 
 ## ✦ Let’s connect
-- Portfolio: _coming soon_
 - [LinkedIn](https://www.linkedin.com/in/hr-/)
 - [Email](reza-h@att.net)
