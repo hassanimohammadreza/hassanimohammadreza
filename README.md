@@ -39,8 +39,8 @@ then transitioned into **UI/UX Design**, and now I build **interactive, pixel-pe
 
 This background allows me to:
 - Write front-end code **with a designer’s eye**
-- Care deeply about spacing, typography, and micro-interactions
-- Build interfaces that *feel* as good as they look
+- Maintain a high level of precision in spacing, typography, visual hierarchy, and micro-interactions
+- Craft polished, performance-aware interfaces that translate visual intent into intuitive, engaging, and production-ready user experiences
 
 ---
 
