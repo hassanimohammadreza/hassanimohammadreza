@@ -22,10 +22,9 @@ then transitioned into **UI/UX Design**, and now I build **interactive, pixel-pe
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
 
 ### Design & Motion
-![UI/UX](https://img.shields.io/badge/UI%2FUX-6C63FF?style=flat)
-![Graphic Design](https://img.shields.io/badge/Graphic%20Design-FF4D4D?style=flat)
-![Motion Design](https://img.shields.io/badge/Motion%20Design-00C2FF?style=flat)
-
+![UI/UX](https://img.shields.io/badge/UI%2FUX-6C63FF?style=flat&logo=figma&logoColor=white)
+![Graphic Design](https://img.shields.io/badge/Graphic%20Design-FF4D4D?style=flat&logo=adobe&logoColor=white)
+![Motion Design](https://img.shields.io/badge/Motion%20Design-00C2FF?style=flat&logo=adobeaftereffects&logoColor=white)
 
 ---
 
