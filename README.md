@@ -18,7 +18,7 @@ then transitioned into **UI/UX Design**, and now I build **interactive, pixel-pe
 
 ### Front-End
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=flat&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-2965F1?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
 
 ### Back-End
@@ -26,7 +26,7 @@ then transitioned into **UI/UX Design**, and now I build **interactive, pixel-pe
 
 ### Design & Motion
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-6C63FF?style=flat&logo=figma&logoColor=white)
-![Graphic Design](https://img.shields.io/badge/Graphic%20Design-FF4D4D?style=flat&logo=dribbble&logoColor=white)
+![Graphic Design](https://img.shields.io/badge/Graphic%20Design-FF4D4D?style=flat&logo=behance&logoColor=white)
 ![Motion Design](https://img.shields.io/badge/Motion%20Design-00C2FF?style=flat&logo=blender&logoColor=white)
 
 ---
