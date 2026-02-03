@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm a Front-End Developer 👋  
+### with a strong background in Design & Motion
 
-<!--
-**hassanimohammadreza/hassanimohammadreza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I started my journey as a **Graphic Designer** and **Professional Motion Designer**,  
+then transitioned into **UI/UX Design**, and now I build **interactive, pixel-perfect web interfaces** as a **Front-End Developer**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✦ What I do
+- Design-driven front-end development  
+- Translating UI/UX concepts into clean, maintainable code  
+- Creating smooth, meaningful interactions and animations  
+- Bridging the gap between **design and development**
+
+---
+
+## ✦ Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-111111?style=flat)
+![Motion Design](https://img.shields.io/badge/Motion%20Design-111111?style=flat)
+
+---
+
+## ✦ Design Background
+- Graphic Design fundamentals  
+- Advanced Motion Graphics & Animation  
+- Visual storytelling & composition  
+- User-centered design thinking
+
+This background allows me to:
+- Write front-end code **with a designer’s eye**
+- Care deeply about spacing, typography, and micro-interactions
+- Build interfaces that *feel* as good as they look
+
+---
+
+## ✦ Currently
+- Working with **HTML, CSS, JavaScript**
+- Improving front-end architecture & animation workflows
+- Focused on modern, accessible, and scalable UI
+
+---
+
+## ✦ Mindset
+> Design is not just how it looks.  
+> Code is not just how it works.  
+> **Great products live in between.**
+
+---
+
+## ✦ Let’s connect
+- Portfolio: _coming soon_
+- [LinkedIn](https://www.linkedin.com/in/hr-/)
+- [Email](reza-h@att.net)
