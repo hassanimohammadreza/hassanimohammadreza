@@ -25,9 +25,9 @@ then transitioned into **UI/UX Design**, and now I build **interactive, pixel-pe
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### Design & Motion
-![UI/UX](https://img.shields.io/badge/UI%2FUX-000000?style=flat&logo=figma&logoColor=white)
-![Graphic Design](https://img.shields.io/badge/Graphic%20Design-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
-![Motion Design](https://img.shields.io/badge/Motion%20Design-9999FF?style=flat&logo=adobeaftereffects&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-6C63FF?style=flat&logo=figma&logoColor=white)
+![Graphic Design](https://img.shields.io/badge/Graphic%20Design-FF4D4D?style=flat&logo=adobe&logoColor=white)
+![Motion Design](https://img.shields.io/badge/Motion%20Design-00C2FF?style=flat&logo=adobeaftereffects&logoColor=white)
 
 ---
 
