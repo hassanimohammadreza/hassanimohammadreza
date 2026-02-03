@@ -7,9 +7,9 @@ then transitioned into **UI/UX Design**, and now I build **interactive, pixel-pe
 ---
 
 ## ✦ What I do
-- Design-driven front-end development  
-- Translating UI/UX concepts into clean, maintainable code  
-- Creating smooth, meaningful interactions and animations  
+- Designing user interfaces and delivering them through to final implementation
+- Translating UI designs into clean, production-ready code for real-world websites  
+- Creating professional, high-quality motion graphics  
 - Bridging the gap between **design and development**
 
 ---
