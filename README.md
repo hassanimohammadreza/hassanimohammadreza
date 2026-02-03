@@ -26,7 +26,7 @@ then transitioned into **UI/UX Design**, and now I build **interactive, pixel-pe
 
 ### Design & Motion
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-6C63FF?style=flat&logo=figma&logoColor=white)
-![Graphic Design](https://img.shields.io/badge/Graphic%20Design-FF4D4D?style=flat&logo=canva&logoColor=white)
+![Graphic Design](https://img.shields.io/badge/Graphic%20Design-FF4D4D?style=flat&logo=behance&logoColor=white)
 ![Motion Design](https://img.shields.io/badge/Motion%20Design-00C2FF?style=flat&logo=blender&logoColor=white)
 
 ---
