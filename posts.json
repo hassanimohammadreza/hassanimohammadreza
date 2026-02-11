@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Welcome to My Blog",
+    "slug": "welcome-to-my-blog",
+    "date": "2026-02-10",
+    "content": "This is the **first post**.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. More text to test Read More functionality."
+  },
+  {
+    "title": "Deep Dive Into JavaScript",
+    "slug": "deep-dive-javascript",
+    "date": "2026-02-09",
+    "content": "JavaScript is fun!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Even more text for testing purposes."
+  },
+  {
+    "title": "Frontend Architecture",
+    "slug": "frontend-architecture",
+    "date": "2026-02-08",
+    "content": "Structure matters in frontend.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Test content continues."
+  },
+  {
+    "title": "Productivity Systems",
+    "slug": "productivity-systems",
+    "date": "2026-02-07",
+    "content": "Focus beats motivation.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  {
+    "title": "Open Source Thoughts",
+    "slug": "open-source",
+    "date": "2026-02-06",
+    "content": "Open source changes the world.\n\nLorem ipsum dolor sit amet."
+  },
+  {
+    "title": "Minimal Design Philosophy",
+    "slug": "minimal-design",
+    "date": "2026-02-05",
+    "content": "Less is more.\n\nDesign should be invisible."
+  }
+]
