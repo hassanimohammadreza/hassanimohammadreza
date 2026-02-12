@@ -85,43 +85,8 @@ async function loadSinglePost(){
   `;
 }
 
-// --- Admin Panel ---
-async function initAdmin(){
-  if(localStorage.getItem("isAdmin")!=="true"){
-    window.location.href="login.html";
-    return;
-  }
-
-  const form = document.getElementById("post-form");
-  const posts = await getPosts();
-
-  form.addEventListener("submit", e=>{
-    e.preventDefault();
-    const title = document.getElementById("title").value;
-    const content = document.getElementById("content").value;
-
-    const newPost = {
-      title,
-      slug: createSlug(title),
-      date: new Date().toISOString().split("T")[0],
-      content
-    };
-
-    posts.unshift(newPost);
-    savePosts(posts);
-    window.location.href="index.html";
-  });
-
-  const logoutBtn = document.getElementById("logout");
-  if(logoutBtn){
-    logoutBtn.onclick = ()=>{
-      localStorage.removeItem("isAdmin");
-      window.location.href="index.html";
-    }
-  }
-}
-
 // --- Auto init ---
 if(document.getElementById("posts")) renderHome();
 if(document.getElementById("post-form")) initAdmin();
 if(document.getElementById("single-post")) loadSinglePost();
+
