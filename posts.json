@@ -1,38 +1,38 @@
 [
   {
-    "title": "Welcome to My Blog",
-    "slug": "welcome-to-my-blog",
-    "date": "2026-02-10",
-    "content": "This is the **first post**.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. More text to test Read More functionality."
-  },
-  {
-    "title": "Deep Dive Into JavaScript",
+    "title": "Deep Dive Into JavaScript: Adding Functionality to Design",
     "slug": "deep-dive-javascript",
-    "date": "2026-02-09",
-    "content": "JavaScript is fun!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Even more text for testing purposes."
-  },
-  {
-    "title": "Frontend Architecture",
-    "slug": "frontend-architecture",
-    "date": "2026-02-08",
-    "content": "Structure matters in frontend.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Test content continues."
-  },
-  {
-    "title": "Productivity Systems",
-    "slug": "productivity-systems",
-    "date": "2026-02-07",
-    "content": "Focus beats motivation.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit."
+    "date": "2026-02-03",
+    "content": "JavaScript is essential in turning a static design into an interactive experience. In this post, I’ll dive deep into how JavaScript can enhance design by adding interactivity.\n\nI’ll share how animations, user interactions, and dynamic changes can be achieved with just a few lines of code. Through JavaScript, I’m now able to create interfaces that not only look great but respond to user behavior—whether that’s a smooth transition, a custom animation, or even real-time data updates."
   },
   {
     "title": "Open Source Thoughts",
     "slug": "open-source",
-    "date": "2026-02-06",
-    "content": "Open source changes the world.\n\nLorem ipsum dolor sit amet."
+    "date": "2026-01-06",
+    "content": "As a designer transitioning into development, I’ve discovered that the open-source community is an invaluable resource. Open source projects allow developers and designers to collaborate, learn from each other, and contribute to projects that can impact the world.\n\nIn this post, I’ll talk about the importance of contributing to open-source projects and how it’s helped me grow. Not only have I learned new development skills, but I’ve also gained a deeper understanding of collaborative design. Whether it’s fixing bugs or improving UI components, being part of the open-source ecosystem has made me a better developer."
   },
   {
-    "title": "Minimal Design Philosophy",
-    "slug": "minimal-design",
-    "date": "2026-02-05",
-    "content": "Less is more.\n\nDesign should be invisible."
+    "title": "Productivity Systems",
+    "slug": "productivity-systems",
+    "date": "2025-10-07",
+    "content": "One of the most important lessons I’ve learned as I’ve transitioned from design to development is the importance of **productivity systems**. As a designer, I had the luxury of focusing on creativity, but as a developer, I’m constantly balancing both the creative and logical sides of my brain.\n\nTo stay productive, I’ve adopted tools like Trello for task management, and GitHub for version control. But beyond tools, I’ve also focused on creating productive habits—like working in blocks of time, regularly reviewing my goals, and using resources like online communities and open-source projects to keep learning. In this post, I’ll talk about how I’ve structured my time and projects to stay on track and make the most of my learning."
+  },
+  {
+    "title": "Frontend Architecture",
+    "slug": "frontend-architecture",
+    "date": "2025-08-08",
+    "content": "When you’re transitioning from graphic design to UI/UX development, one of the first challenges is learning how to structure your projects efficiently. Frontend architecture is a critical aspect of creating maintainable, scalable web applications.\n\nI’ll explain how I’m applying the concepts of reusable components, modular CSS, and responsive design into my workflow. With each new project, I’m refining my approach to ensure that my design systems can grow with the needs of the project. This post will also touch on the importance of organization and documentation in maintaining a smooth development process."
+  },
+  {
+  "title": "Embracing Responsive Design: Designing for All Devices",
+  "slug": "embracing-responsive-design",
+  "date": "2025-02-01",
+  "content": "As I moved deeper into the world of UI/UX development, one of the most important skills I had to master was **responsive design**. Coming from a graphic design background, I was used to creating static, fixed-size designs. But the web is far from static—designs need to work across a wide range of devices, from mobile phones to large desktop screens.\n\nIn this post, I’ll share how I approached making my designs responsive and the tools I used to ensure they looked great on any device. Using **media queries**, **flexbox**, and **grid layouts**, I’ve learned to design interfaces that adapt smoothly to different screen sizes. This shift was a key milestone in my journey, as it forced me to think not just about aesthetics, but also about how users experience interfaces in different contexts.\n\nI’ll also discuss best practices for designing with mobile-first principles and how ensuring accessibility and usability for all users became a top priority in my process."
+  },
+  {
+    "title": "From Motion to Interaction",
+    "slug": "motion-interaction",
+    "date": "2025-01-05",
+    "content": "Here, I share insights, tutorials, and personal reflections on my transition from static designs to interactive, user-focused creations. You'll find content about the intersection of design and technology, the art of crafting intuitive digital interfaces, and tips for balancing creativity with functionality. I also discuss tools, resources, and best practices in both design and development—from Photoshop and After Effects to Figma, Sketch, and coding languages like HTML, CSS, and JavaScript.\n\n<BR>Whether you're a fellow designer looking to make the leap into UI/UX development, a developer interested in the design side of things, or just someone curious about the creative process, I invite you to explore the blog and join me as I continue to learn, grow, and create in this dynamic field."
   }
 ]
