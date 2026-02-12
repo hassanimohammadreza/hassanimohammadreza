@@ -30,37 +30,64 @@ async function renderHome(){
 
   function render(){
     const container = document.getElementById("posts");
-    container.innerHTML = "";
+    container.textContent = ""; 
 
-    const start = currentPage*POSTS_PER_PAGE;
-    const pagePosts = posts.slice(start, start+POSTS_PER_PAGE);
+    const start = currentPage * POSTS_PER_PAGE;
+    const pagePosts = posts.slice(start, start + POSTS_PER_PAGE);
 
-    pagePosts.forEach(post=>{
-      container.innerHTML += `
-        <article class="post">
-          <h2>${post.title}</h2>
-          <p class="date">${post.date}</p>
-          <p>${post.content.substring(0,200)}...</p>
-          <a href="post.html?slug=${post.slug}">Read more →</a>
-        </article>
-      `;
+    const fragment = document.createDocumentFragment();
+
+    pagePosts.forEach(post => {
+
+      const article = document.createElement("article");
+      article.className = "post";
+
+      // Title
+      const title = document.createElement("h2");
+      title.textContent = post.title;
+
+      // Date
+      const date = document.createElement("p");
+      date.className = "date";
+      date.textContent = post.date;
+
+      // Excerpt
+      const excerpt = document.createElement("p");
+      excerpt.textContent = post.content.substring(0, 200) + "...";
+
+      // Link
+      const link = document.createElement("a");
+      link.href = `post.html?slug=${post.slug}`;
+      link.textContent = "Read more →";
+
+      // Append elements
+      article.appendChild(title);
+      article.appendChild(date);
+      article.appendChild(excerpt);
+      article.appendChild(link);
+
+      fragment.appendChild(article);
     });
 
+    container.appendChild(fragment);
+
+    // Pagination buttons
     document.getElementById("newer").disabled = currentPage === 0;
-    document.getElementById("older").disabled = start + POSTS_PER_PAGE >= posts.length;
+    document.getElementById("older").disabled =
+      start + POSTS_PER_PAGE >= posts.length;
   }
 
-  document.getElementById("older").onclick = ()=>{
+  document.getElementById("older").onclick = () => {
     currentPage++;
     render();
-  }
+  };
 
-  document.getElementById("newer").onclick = ()=>{
-    if(currentPage>0){
+  document.getElementById("newer").onclick = () => {
+    if(currentPage > 0){
       currentPage--;
       render();
     }
-  }
+  };
 
   render();
 }
@@ -74,19 +101,28 @@ async function loadSinglePost(){
 
   const post = posts.find(p=>p.slug === slug);
   if(!post){
-    container.innerHTML = "Post not found.";
+    container.textContent = "Post not found.";
     return;
   }
 
-  container.innerHTML = `
-    <h1>${post.title}</h1>
-    <p class="date">${post.date}</p>
-    <div>${marked.parse(post.content)}</div>
-  `;
+  container.textContent = "";
+
+  const title = document.createElement("h1");
+  title.textContent = post.title;
+
+  const date = document.createElement("p");
+  date.className = "date";
+  date.textContent = post.date;
+
+  const contentDiv = document.createElement("div");
+  contentDiv.innerHTML = marked.parse(post.content);
+
+  container.appendChild(title);
+  container.appendChild(date);
+  container.appendChild(contentDiv);
+
 }
 
 // --- Auto init ---
 if(document.getElementById("posts")) renderHome();
 if(document.getElementById("single-post")) loadSinglePost();
-
-
