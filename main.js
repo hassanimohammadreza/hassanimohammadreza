@@ -87,6 +87,6 @@ async function loadSinglePost(){
 
 // --- Auto init ---
 if(document.getElementById("posts")) renderHome();
-if(document.getElementById("post-form")) initAdmin();
 if(document.getElementById("single-post")) loadSinglePost();
+
 
