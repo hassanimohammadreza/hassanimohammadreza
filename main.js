@@ -1,4 +1,4 @@
-const POSTS_PER_PAGE = 5;
+const POSTS_PER_PAGE = 3;
 
 async function getPosts() {
   const local = localStorage.getItem("posts");
@@ -53,7 +53,7 @@ async function renderHome(){
 
       // Excerpt
       const excerpt = document.createElement("p");
-      excerpt.textContent = post.content.substring(0, 200) + "...";
+      excerpt.textContent = post.content.substring(0, 100) + "...";
 
       // Link
       const link = document.createElement("a");
