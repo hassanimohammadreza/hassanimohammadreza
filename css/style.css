@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
   margin: 0;
   font-family: Arial, sans-serif;
@@ -42,6 +48,12 @@ body {
   justify-content: space-between;
 }
 
+button:disabled {
+  background-color: gray;
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
 button {
   padding: 8px 16px;
   background: black;
@@ -49,6 +61,11 @@ button {
   border: none;
   cursor: pointer;
 }
+
+button:hover:not(:disabled) {
+  background: #444;
+}
+
 
 textarea {
   width: 100%;
