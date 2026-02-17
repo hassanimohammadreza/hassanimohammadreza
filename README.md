@@ -1,7 +1,7 @@
 # Hi, I'm a Front-End Developer 👋  
-### with a strong background in Design & Motion
+### with a strong background in Design
 
-I started my journey as a **Graphic Designer** and **Professional Motion Designer**,  
+I started my journey as a **Graphic Designer**,  
 then transitioned into **UI/UX Design**, and now I build **interactive, pixel-perfect web interfaces** as a **Front-End Developer**.
 
 ---
@@ -44,7 +44,7 @@ This background allows me to:
 ## ✦ Currently
 - Shipping projects with HTML, CSS, JavaScript
 - Learning Python + diving into back-end dev
-- Leveling up front-end architecture & animation workflows
+- Exploring creative coding & interactive experiences
 - Obsessed with modern, accessible, scalable UI
 
 ---
