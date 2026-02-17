@@ -57,5 +57,4 @@ This background allows me to:
 ---
 
 ## ✦ Let’s connect
-- [LinkedIn](https://www.linkedin.com/in/hr-/)
-- [Email](reza-h@att.net)
+- LinkedIn: `https://www.linkedin.com/in/hr-/`
