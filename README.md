@@ -58,3 +58,4 @@ This background allows me to:
 
 ## ✦ Let’s connect
 - LinkedIn: `https://www.linkedin.com/in/hr-/`
+- Resume: `https://is.gd/CEcj7Y`
