@@ -9,7 +9,6 @@ then transitioned into **UI/UX Design**, and now I build **interactive, pixel-pe
 ## ✦ What I do
 - Designing user interfaces and delivering them through to final implementation
 - Translating UI designs into clean, production-ready code for real-world websites  
-- Creating professional, high-quality motion graphics  
 - Bridging the gap between **design and development**
 
 ---
@@ -43,9 +42,10 @@ This background allows me to:
 ---
 
 ## ✦ Currently
-- Working with **HTML, CSS, JavaScript**
-- Improving front-end architecture & animation workflows
-- Focused on modern, accessible, and scalable UI
+- Shipping projects with HTML, CSS, JavaScript
+- Learning Python + diving into back-end dev
+- Leveling up front-end architecture & animation workflows
+- Obsessed with modern, accessible, scalable UI
 
 ---
 
