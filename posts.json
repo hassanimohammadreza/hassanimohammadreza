@@ -1,5 +1,11 @@
 [
   {
+    "title": "Falling Blocks & Rising Skills",
+    "slug": "building-tetris-with-javascript",
+    "date": "2026-02-21",
+    "content": "## Building Tetris with JavaScript\n\nAfter designing with CSS and strengthening my logic with Python, I wanted a real challenge — so I built **Tetris** using vanilla JavaScript.\n\nNo libraries. No engines. Just HTML, CSS, and JS.\n\nThis project pushed me to understand:\n\n- Game loops\n- Keyboard event handling\n- Collision detection\n- Grid-based movement\n- State management\n- Piece rotation logic\n\nUnlike CSS, which feels like painting, JavaScript feels like engineering. Every falling block depends on logic. Every rotation is math. Every cleared row is the result of structured thinking.\n\nBuilding Tetris forced me to think in systems instead of screens.\n\nNow I’m not just designing interfaces.\n\nI’m designing behavior, rules, and interaction.\n\nAnd honestly? Watching those blocks fall — powered entirely by my own code — feels like leveling up."
+  },
+  {
     "title": "From Graphic Designer to Front-End Developer",
     "slug": "from-graphic-designer-to-front-end-developer",
     "date": "2026-02-14",
